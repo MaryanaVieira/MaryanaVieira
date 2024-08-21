@@ -1,16 +1,13 @@
-Boas vindas ao meu perfil 
+### Boas vindas ao meu perfil ❤️
 
-<!--
-**MaryanaVieira/MaryanaVieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Maryana Vieira
 
-Here are some ideas to get you started:
+- Estou estudando o [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo tecnologicamente
+- Cada dia, aprendo mais coisas
+- Utilizo e se espaço para realizar meus projeto e me aprimorar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Venha se aventurar comigo nesse mundo de tecnologias 🚀
+
+
+  ![]![sanjuu](https://github.com/user-attachments/assets/6c1bf3ab-35ac-4554-b352-8bd33da09b79)
