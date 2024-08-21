@@ -5,7 +5,7 @@ Meu nome é Maryana Vieira
 - Estou estudando o [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo tecnologicamente
 - Cada dia, aprendo mais coisas
-- Utilizo e se espaço para realizar meus projeto e me aprimorar
+- Utilizo esse espaço para realizar meus projeto e me aprimorar
 
   ### Venha se aventurar comigo nesse mundo de tecnologias 🚀
 
