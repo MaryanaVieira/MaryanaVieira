@@ -1,8 +1,8 @@
 ### Boas vindas ao meu perfil ❤️
 
-Meu nome é Maryana Vieira
+Meu nome é Maryana Vieira Fernandes
 
-- Estou estudando o [Alura](https://www.alura.com.br)
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo tecnologicamente
 - Cada dia, aprendo mais coisas
 - Utilizo esse espaço para realizar meus projeto e me aprimorar
