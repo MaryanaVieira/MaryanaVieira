@@ -10,4 +10,4 @@ Meu nome é Maryana Vieira Fernandes
   ### Venha se aventurar comigo nesse mundo de tecnologias 🚀
 
 
-  [sanjuu](https://github.com/user-attachments/assets/6c1bf3ab-35ac-4554-b352-8bd33da09b79)
+  ![]![sanjuu](https://github.com/user-attachments/assets/6c1bf3ab-35ac-4554-b352-8bd33da09b79)
